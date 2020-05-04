@@ -38,4 +38,5 @@ If you want to track 3D position of real object using this addon, you need:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 Special thanks to Igor Orlovsky for the calculation algorithms
